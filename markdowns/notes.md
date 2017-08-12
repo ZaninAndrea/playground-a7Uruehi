@@ -20,7 +20,7 @@ You break problems down to tiny bits and then glue them together with cool funct
   - [x] we can chaing map calls, because ti returns another functor
   - [x] arrays, streams, trees are functors
 - monads
-  - a functor that also implements flatmap (flatten+map)
+  - [x] a functor that also implements flatmap (flatten+map)
 ? memoization
 - what now?
     - haskell
